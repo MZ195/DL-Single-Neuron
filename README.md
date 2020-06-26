@@ -15,7 +15,7 @@ The dataset for this project is 2000 randomly generated points classified either
 
 This is a visual representation of a perceptron learning how to classify the data.
 
-![learning_perceptron](https://i.ibb.co/0yrKkTD/ezgif-4-5d1bf3549507.gif)
+![learning_perceptron](https://i.ibb.co/yFqpDtf/ezgif-4-5d1bf3549507.gif)
 
 ## PROJECT STRUCTURE
 `predict` Will return the weighted sums given x0, x1, x2.
